@@ -1,7 +1,7 @@
 <H1>a tiny hackintosh with a ITX Gigabyte Z370N motherboard</H1>
 <br><b>Download EFI Clover boot file for MOJAVE : 10.14.6</b>
 <br><br>Computer setup :
-<br>Motherboard:  MSI Gigabyte Z370N
+<br>Motherboard:  Gigabyte Z370N
 <br>CPU : Core i3-8100
 <br>integrated GPU : Intel Graphic chipset
 <br>SSD NVME M2 
